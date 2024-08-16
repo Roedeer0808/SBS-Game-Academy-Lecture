@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{0007D76B-E628-4BEE-97A8-AFD132696EC7}|Program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{244B9648-5FF0-40E6-B00D-618FC42273D7}|..\\Class4th (Overflow \u0026 Underflow)\\Class4th (Overflow \u0026 Underflow).vcxproj|C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Class4th (Overflow \u0026 Underflow)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{797B3620-739F-4A3D-864E-578AD281C09B}|..\\Class3th (Bit)\\Class3th (Bit).vcxproj|C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Class3th (Bit)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -29,18 +32,18 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Class3th (Bit)\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class3th (Bit)\\Source.c",
-              "ToolTip": "C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Class3th (Bit)\\Source.c",
-              "RelativeToolTip": "..\\Class3th (Bit)\\Source.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAARAAAA",
+              "DocumentMoniker": "C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Class4th (Overflow \u0026 Underflow)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class4th (Overflow \u0026 Underflow)\\Source.c",
+              "ToolTip": "C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Class4th (Overflow \u0026 Underflow)\\Source.c",
+              "RelativeToolTip": "..\\Class4th (Overflow \u0026 Underflow)\\Source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-16T05:06:15.172Z",
+              "WhenOpened": "2024-08-16T05:33:50.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Class2th (Variable \u0026 Constant)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class2th (Variable \u0026 Constant)\\Source.c",
@@ -52,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Class1th (printf)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class1th (printf)\\Source.c",
@@ -70,10 +73,22 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAN8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-11T11:32:45.893Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Class3th (Bit)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class3th (Bit)\\Source.c",
+              "ToolTip": "C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Class3th (Bit)\\Source.c",
+              "RelativeToolTip": "..\\Class3th (Bit)\\Source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-16T05:06:15.172Z"
             }
           ]
         },
