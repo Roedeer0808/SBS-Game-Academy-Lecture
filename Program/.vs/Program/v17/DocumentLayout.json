@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A91221B-C4DC-40E1-856F-BBDC8717339C}|..\\Class8th (Pointer)\\Class8th (Pointer).vcxproj|C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Class8th (Pointer)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0007D76B-E628-4BEE-97A8-AFD132696EC7}|Program.vcxproj|C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0007D76B-E628-4BEE-97A8-AFD132696EC7}|Program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A91221B-C4DC-40E1-856F-BBDC8717339C}|..\\Class8th (Pointer)\\Class8th (Pointer).vcxproj|C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Class8th (Pointer)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58EB814D-D2C5-4FE6-A4F4-35B8A2EE0AEF}|..\\Class6th (Iteration statement)\\Class6th (Iteration statement).vcxproj|C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Class6th (Iteration statement)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -38,30 +38,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Class8th (Pointer)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class8th (Pointer)\\Source.c",
               "ToolTip": "C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Class8th (Pointer)\\Source.c",
               "RelativeToolTip": "..\\Class8th (Pointer)\\Source.c",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-20T12:38:15.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Program\\source.c",
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-11T11:32:45.893Z",
               "EditorCaption": ""
@@ -76,8 +76,7 @@
               "RelativeToolTip": "..\\Class6th (Iteration statement)\\Source.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAKMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-19T11:05:15.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T11:05:15.283Z"
             },
             {
               "$type": "Document",
@@ -89,8 +88,7 @@
               "RelativeToolTip": "..\\Class7th (Type Conversion\\Source.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-19T12:42:31.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T12:42:31.231Z"
             },
             {
               "$type": "Document",

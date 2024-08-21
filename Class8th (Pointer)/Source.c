@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "GameManager.h" // float time
+//#include "GameManager.h" // float time
 
 #define SIZE 5
 void main()
