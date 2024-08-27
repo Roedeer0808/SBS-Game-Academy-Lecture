@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{735A8EE8-E01B-42D1-B6F4-37992D4A245C}|..\\Class12th (Ascii Code)\\Class12th (Ascii Code).vcxproj|C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Class12th (Ascii Code)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0007D76B-E628-4BEE-97A8-AFD132696EC7}|Program.vcxproj|C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0007D76B-E628-4BEE-97A8-AFD132696EC7}|Program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735A8EE8-E01B-42D1-B6F4-37992D4A245C}|..\\Class12th (Ascii Code)\\Class12th (Ascii Code).vcxproj|C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Class12th (Ascii Code)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49700849-4901-4776-906A-24A196403BE8}|..\\Class11th (Function)\\Class11th (Function).vcxproj|C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Class11th (Function)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Class12th (Ascii Code)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class12th (Ascii Code)\\Source.c",
@@ -75,8 +75,7 @@
               "RelativeToolTip": "..\\Class11th (Function)\\Source.c",
               "ViewState": "AQIAACsAAAAAAAAAAAAAACgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-23T12:40:03.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T12:40:03.716Z"
             },
             {
               "$type": "Document",
@@ -92,13 +91,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Program\\source.c",
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\minge\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC218\uC5C5\\SBS-Game-Academy-Lecture\\Program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-08-11T11:32:45.893Z",
               "EditorCaption": ""
